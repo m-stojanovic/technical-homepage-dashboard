@@ -57,4 +57,4 @@ Contributions are what make the open source community such an amazing place to b
 
 Milos Stojanovic - [@linkedin](https://www.linkedin.com/in/infomilosstojanovic/)
 
-Project Link: [https://github.com/m-stojanovic/filebeat-ansible-role](https://github.com/m-stojanovic/filebeat-ansible-role)
+Project Link: [https://github.com/m-stojanovic/technical-homepage-dashboard](https://github.com/m-stojanovic/technical-homepage-dashboard)
