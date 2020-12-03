@@ -16,6 +16,7 @@
 ## About The Project
 
 Simple technical dashboard on which any company can use as navigation to their most used tools. 
+
 You can find uploaded logos for kafka, elasticsearch, kibana, grafana, zabbix, github, jira and more. 
 
 ### Built With
@@ -31,7 +32,9 @@ docker-compose up -d
 ### Prerequisites
 
 Docker version:           19.03.8
+
 Docker compose version:   3.0 
+
 Nginx version:            1.19.5
 
 <!-- ROADMAP -->
